@@ -4,8 +4,9 @@
 npm create astro@latest -- --template minimal
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/minimal)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/YuseiUeno/astro-tutorial)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/YuseiUeno/astro-tutorial)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/35ae6b0c-3f83-441f-a224-6a5833f987ef/deploy-status)](https://app.netlify.com/sites/831-astro-tutorial/deploys)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
